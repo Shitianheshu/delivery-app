@@ -1,17 +1,17 @@
-# chat_app
+デリバリー用チャットアプリ
 
-A new Flutter project.
+新しいFlutterプロジェクトです。
 
-## Getting Started
+紹介
 
-This project is a starting point for a Flutter application.
+このプロジェクトは、Flutterアプリケーション開発を始めるための出発点となります。
 
-A few resources to get you started if this is your first Flutter project:
+初めてFlutterプロジェクトを始める方のために、以下のリソースをご紹介します：
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- [Flutterを学ぶ](https://docs.flutter.dev/get-started/learn-flutter)
+- [最初のFlutterアプリを作成する](https://docs.flutter.dev/get-started/codelab)
+- [Flutter学習リソース](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter開発を始める際に必要なサポートについては、
+[オンラインドキュメント](https://docs.flutter.dev/)をご参照ください。ここでは、チュートリアル、
+サンプル、モバイル開発に関するガイドライン、および完全なAPIリファレンスを提供しています。
